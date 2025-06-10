@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+src/financial_forecasting_mcp/__init__.py
+src/financial_forecasting_mcp/data_fetcher.py
+src/financial_forecasting_mcp/feature_engineering.py
+src/financial_forecasting_mcp/openai_interpreter.py
+src/financial_forecasting_mcp/server.py
+src/financial_forecasting_mcp/svm_forecaster.py
+src/financial_forecasting_mcp.egg-info/PKG-INFO
+src/financial_forecasting_mcp.egg-info/SOURCES.txt
+src/financial_forecasting_mcp.egg-info/dependency_links.txt
+src/financial_forecasting_mcp.egg-info/entry_points.txt
+src/financial_forecasting_mcp.egg-info/requires.txt
+src/financial_forecasting_mcp.egg-info/top_level.txt

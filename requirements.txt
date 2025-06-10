@@ -1,0 +1,29 @@
+# Core MCP dependencies
+mcp>=1.0.0
+
+# Financial data
+yfinance>=0.2.30
+
+# Machine learning
+scikit-learn>=1.3.0
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Technical analysis
+ta>=0.10.2
+
+# AI interpretation
+openai>=1.0.0
+
+# Environment and configuration
+python-dotenv>=1.0.0
+
+# Visualization (optional)
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Development dependencies
+pytest>=7.0.0
+black>=23.0.0
+flake8>=6.0.0
+mypy>=1.0.0 
