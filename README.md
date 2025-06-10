@@ -6,7 +6,7 @@ A Model Context Protocol (MCP) server that provides SVM-based financial forecast
 
 - **Yahoo Finance Integration**: Fetch real-time OHLC data for any stock symbol
 - **Advanced Feature Engineering**: Technical indicators, price patterns, and lag features
-- **SVM Forecasting**: Support Vector Machine models for price prediction
+- **SVM Forecasting**: A very basic Support Vector Machine for price prediction. More sophisticated models can be used for specialized implementations
 - **OpenAI Interpretation**: AI-powered explanation and analysis of forecast results
 - **Hyperparameter Optimization**: Automated parameter tuning for better performance
 - **Risk Assessment**: Confidence metrics and risk factor identification
@@ -93,7 +93,7 @@ The MCP server can be configured through environment variables:
 ```
 
 ## Technical Details
-
+The idea is to use a very basic supervised learning model to demonstrated the concept.
 ### SVM Model
 - **Kernels**: Linear, Polynomial, RBF, Sigmoid
 - **Features**: 40+ technical indicators and engineered features
